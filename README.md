@@ -1,18 +1,9 @@
-## Getting Started
+# Simple Java Calculator 🧮
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project is a calculator like any other simple one. My goal is to perfection the design, functionalities and even to upgrade the calculator to a scientific one, along with time.
 
-## Folder Structure
+## Objectives
 
-The workspace contains two folders by default, where:
+With the start of this project, my objective was to learn and to utilize new libraries that I had not used before. By using the Abstract Window Toolkit and the Swing libraries for the first time, I was first introduced to the creation of a visual application of the code in Java, outside the IDE console. I followed a YouTube tutorial that helped me understand the basic functionalities of both these libraries, which led me to the my first creation of a calculator.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Preview
